@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="985e248d-20ec-4309-9510-f89983a0a55d" name="Default Changelist" comment="comitted" />
+    <list default="true" id="985e248d-20ec-4309-9510-f89983a0a55d" name="Default Changelist" comment="comitted">
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/GoogleStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/GoogleStep.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
